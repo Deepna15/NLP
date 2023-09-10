@@ -9,4 +9,3 @@ sklearn
 seaborn
 matplotlib
 wordcloud
-pickle
